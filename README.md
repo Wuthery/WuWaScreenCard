@@ -1,3 +1,5 @@
+## ⚠️Deprecation warning: The project is deprecated. We are no longer maintaining it and neither should you use it.
+
 # WuWaScreenCard
 WuWaScreenCard is a program that allows you to create cards for your characters using screenshots!
 <p align="center">
